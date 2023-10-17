@@ -100,7 +100,6 @@ flex: 1;
 
 .button {
   display: inline-block;
-  align-items: center;
   border-radius: 17px;
   padding: 13px 17px;
   background-color: blue;
