@@ -100,13 +100,13 @@ flex: 1;
 
 .button {
   display: inline-block;
-  border-radius: 20px;
+  border-radius: 17px;
   padding: 13px 17px;
   background-color: blue;
   font-size: 0.8rem;
   color:white;
   text-decoration: none;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .button:hover {
